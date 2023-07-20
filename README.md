@@ -29,7 +29,13 @@
 <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
 <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
 </div><br><br><br>
-  
+
+### Main Projects
+  - **<a href="https://github.com/ChaeHyun-Lee/EATOGETHER" target="_blank"> 더치 배달 </a><br>**    
+  - **<a href="https://github.com/AIVLE-School-Third-Big-Project/KT_BigProject_07" target="_blank"> Face Manager </a>**
+
+<br><br>
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChaeHyun-Lee&show_icons=true&theme=radical)<br><br><br>
   
 ### 📫 **How to reach me**
