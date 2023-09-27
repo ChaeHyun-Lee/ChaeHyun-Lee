@@ -3,7 +3,8 @@
   - 💻 **Wanna be a frontend develover**    
   - 🌱 **Currently learning javascript, react and interested in user-friendly UX/UI design**
   - **2022. 01. 01. ~ 2022. 12. 31 멋쟁이사자처럼 대학 10기 프론트엔드 트랙 수료**
-  - **2023. 01. 31. ~ 2023. 07. 18 KT AIVLE SCHOOL 3기 AI 개발자 트랙 수료**<br><br><br>
+  - **2023. 01. 31. ~ 2023. 07. 18 KT AIVLE SCHOOL 3기 AI 개발자 트랙 수료**
+  - **2023. 09. 26. ~ 2023. 10. 27 wantedlab frontend internship**<br><br><br>
 
 ### 💻Stack
 <div> 
