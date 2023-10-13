@@ -32,13 +32,15 @@
 </div><br><br><br>
 
 ### Team Projects
-  - **<a href="https://github.com/ChaeHyun-Lee/EATOGETHER" target="_blank"> 배달비 분담 서비스 '더치 배달' </a><br>**    
-  - **<a href="https://github.com/AIVLE-School-Third-Big-Project/KT_BigProject_07" target="_blank"> AI 화장법 추천 서비스 'Face Manager' </a>**
+- **[배달비 분담 서비스 '더치 배달'](https://github.com/ChaeHyun-Lee/EATOGETHER)**
+- **[AI 화장법 추천 서비스 'Face Manager'](https://github.com/AIVLE-School-Third-Big-Project/KT_BigProject_07)**
+<br>
 
 ### Personal Projects
+<br>
 
 ### Mini Projects
-  - **<a href="https://github.com/ChaeHyun-Lee/EATOGETHER](https://github.com/ChaeHyun-Lee/github-restAPI-issueslist" target="_blank"> 깃허브 레파지토리 이슈목록 및 상세화면 웹사이트 </a><br>**
+- **[깃허브 레파지토리 이슈목록 및 상세화면 웹사이트](https://github.com/ChaeHyun-Lee/github-restAPI-issueslist)**
 
 <br><br>
 
