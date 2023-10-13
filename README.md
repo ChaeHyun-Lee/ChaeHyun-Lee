@@ -31,9 +31,14 @@
 <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
 </div><br><br><br>
 
-### Main Projects
-  - **<a href="https://github.com/ChaeHyun-Lee/EATOGETHER" target="_blank"> 더치 배달 </a><br>**    
-  - **<a href="https://github.com/AIVLE-School-Third-Big-Project/KT_BigProject_07" target="_blank"> Face Manager </a>**
+### Team Projects
+  - **<a href="https://github.com/ChaeHyun-Lee/EATOGETHER" target="_blank"> 배달비 분담 서비스 '더치 배달' </a><br>**    
+  - **<a href="https://github.com/AIVLE-School-Third-Big-Project/KT_BigProject_07" target="_blank"> AI 화장법 추천 서비스 'Face Manager' </a>**
+
+### Personal Projects
+
+### Mini Projects
+  - **<a href="https://github.com/ChaeHyun-Lee/EATOGETHER](https://github.com/ChaeHyun-Lee/github-restAPI-issueslist" target="_blank"> 깃허브 레파지토리 이슈목록 및 상세화면 웹사이트 </a><br>**
 
 <br><br>
 
