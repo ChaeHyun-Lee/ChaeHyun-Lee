@@ -33,7 +33,7 @@
 
 ### Team Projects
 - **[배달비 분담 서비스 '더치 배달'](https://github.com/ChaeHyun-Lee/EATOGETHER)**
-- **[AI 화장법 추천 서비스 'Face Manager'](https://github.com/AIVLE-School-Third-Big-Project/KT_BigProject_07)**
+- **[AI 화장법 추천 서비스 'Face Manager'](https://generated-cupcake-e9c.notion.site/Face-Manager-5d49a1cdec9447a9a6b9d0b8c5c8bb4e?pvs=4)**
 <br>
 
 ### Personal Projects
