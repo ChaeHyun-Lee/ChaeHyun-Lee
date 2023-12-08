@@ -37,7 +37,7 @@
 <br>
 
 ### Personal Projects
-- **[포트폴라오 웹사이트](https://github.com/ChaeHyun-Lee/portfolio-Chaehyun)**
+- **[포트폴리오 웹사이트](https://github.com/ChaeHyun-Lee/portfolio-Chaehyun)**
 <br>
 
 ### Mini Projects
