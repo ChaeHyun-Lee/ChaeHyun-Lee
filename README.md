@@ -41,7 +41,7 @@
 <br>
 
 ### Mini Projects
-- **[깃허브 레파지토리 이슈목록 및 상세화면 웹사이트](https://github.com/ChaeHyun-Lee/github-restAPI-issueslist)**
+- **[깃허브 레파지토리 이슈목록 및 상세화면 웹사이트](https://github.com/ChaeHyun-Lee/IssuesList_website)**
 
 <br><br>
 
