@@ -42,8 +42,8 @@
 
 ### Mini Projects
 - **[깃허브 레파지토리 이슈목록 및 상세내역 조회](https://github.com/ChaeHyun-Lee/IssuesList_website)**
-- **[질환별 한국임상정보 검색기능 구현](https://github.com/ChaeHyun-Lee/IssuesList_website)**
-- **[JSON 데이터로 시계열 차트 만들기](https://github.com/ChaeHyun-Lee/IssuesList_website)**
+<!-- - **[질환별 한국임상정보 검색기능 구현](https://github.com/ChaeHyun-Lee/IssuesList_website)**
+- **[JSON 데이터로 시계열 차트 만들기](https://github.com/ChaeHyun-Lee/IssuesList_website)** -->
 
 <br><br>
 
